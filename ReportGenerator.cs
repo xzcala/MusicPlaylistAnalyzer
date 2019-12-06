@@ -92,8 +92,6 @@ namespace MusicPlaylistAnalyzer
                 }
                 else
                 {
-                    Console.WriteLine("Test.");
-                    Console.ReadLine();
                     Console.WriteLine("File is empty.");
                 }
             }
